@@ -1,0 +1,30 @@
+:root {
+  /* Brand Colors */
+  --color-primary: #AFC8B2;
+  --color-secondary: #7FA88A;
+  --color-accent: #5F8F72;
+
+  /* Backgrounds */
+  --color-bg-light: #F8FAF8;
+  --color-bg-sage: #AFC8B2;
+
+  /* Text */
+  --color-text-main: #2D3A2F;
+  --color-text-muted: #5F6B61;
+  --color-text-light: #FFFFFF;
+
+  /* Spacing */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 2rem;
+  --spacing-lg: 4rem;
+  --spacing-xl: 8rem;
+
+  /* Transitions */
+  --transition-fast: 0.2s ease;
+  --transition-slow: 0.5s ease;
+
+  /* Typography */
+  --font-main: var(--font-poppins), system-ui, -apple-system, sans-serif;
+  --font-display: var(--font-playfair), serif;
+}
